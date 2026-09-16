@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/mrudweeka/Leetcode_prblms/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
